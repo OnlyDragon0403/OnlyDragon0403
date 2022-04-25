@@ -1,7 +1,7 @@
 
 ![](./header_1.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Welcome+to+my+github+and+resume.;I+am+a+senior+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Welcome+to+my+github+and+resume.;I+am+a+senior+Blockchain+and+Mern+developer.)](https://git.io/typing-svg)
 
 <p align="center"> I'm a blockchain and MERN stack developer. </p>
 <hr>
