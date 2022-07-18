@@ -95,7 +95,7 @@
 <p align="center">
     <div align=center>
       <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-        <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=onlydragon0403&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+        <img src="https://github-profile-trophy.vercel.app/?username=onlydragon0403&column=6&title=Stars,Followers,Commit,Issues,PullRequest,Repo">
       </a>
     </div>
 </p>
