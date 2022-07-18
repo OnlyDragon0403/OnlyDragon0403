@@ -109,9 +109,9 @@
 
 
 <!-- retro visitor counter -->  
-<p align="center" >   
+<!-- <p align="center" >   
   Visitor's count
   <br></br>
   <img src="https://profile-counter.glitch.me/onlydragon0403/count.svg" />  
-</p>
+</p> -->
   
