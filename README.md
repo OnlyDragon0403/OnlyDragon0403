@@ -84,7 +84,7 @@
             <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=onlydragon0403&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
             </td>
             <td width="50%" align="center">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlydragon0403&hide=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,solidity,rust,nix" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlydragon0403&show=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,solidity,rust,nix" />
             </td>
         </tr>
     </table>
