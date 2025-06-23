@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Welcome+to+my+github+and+resume.;I+am+proficient+in+Java+and+CPlusPlus.;I+am+a+senior+Blockchain+developer.)](https://git.io/typing-svg)
 
-<p align="center"> I'm a Video Game & Blockchain developer. </p>
+<p align="center"> I'm a Software Engineer. </p>
 <hr>
 <p style="display: inline-block;" align="center">
   <kbd>
